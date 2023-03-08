@@ -3,9 +3,6 @@ import 'package:creativa_flutter/login_screen.dart';
 import 'package:creativa_flutter/search_screen.dart';
 import 'package:creativa_flutter/splash_screen.dart';
 import 'package:flutter/material.dart';
-
-import 'counter.dart';
-
 void main() {
   runApp(MyApp());
 }
